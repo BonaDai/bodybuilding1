@@ -188,8 +188,8 @@
 }
 
 .fitness-expert-img-item:nth-child(2) {
-    margin-left: 68px;
-    margin-right: 68px;
+    margin-left: 50px;
+    margin-right: 50px;
 }
 
 .time-table {
@@ -232,12 +232,12 @@
 }
 
 .pricing-plan-list img:nth-child(2) {
-    margin-left: 60px;
-    margin-right: 60px;
+    margin-left: 50px;
+    margin-right: 50px;
 }
 
 .pricing-plan-list img:nth-child(3) {
-    margin-right: 60px;
+    margin-right: 50px;
 }
 
 .bottom {
